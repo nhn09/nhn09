@@ -2,7 +2,8 @@
 -  I’m interested in software development,web development and machine learning.
 -  I’m currently persuing BSc in CSE.
 -  I’m looking to collaborate on MERN projects,UI/UX projects and android development projects.
-- 📫 Reach me at https://www.linkedin.com/in/fariha-fairoz-3b7a41194
+- 📫 Reach me at <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
+- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="fariha-fairoz-nohan"><a class="LI-simple-link" href='https://bd.linkedin.com/in/fariha-fairoz-nohan?trk=profile-badge'>Fariha Fairoz</a></div>
 
 <!---
 nhn09/nhn09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
