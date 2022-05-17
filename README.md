@@ -2,7 +2,7 @@
   I’m Fariha Fairoz Nohan, interested in software development,web development and machine learning.
   I’m currently persuing BSc in CSE.
   I’m looking to collaborate on MERN projects,UI/UX projects and android development projects.
-  Reach me at <a class="LI-simple-link" href='https://bd.linkedin.com/in/fariha-fairoz-nohan?trk=profile-badge'>Linked In</a></div>
+  Reach me <a class="LI-simple-link" href='https://bd.linkedin.com/in/fariha-fairoz-nohan?trk=profile-badge'>here.</a></div>
   
 
 
