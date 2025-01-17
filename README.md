@@ -1,4 +1,4 @@
-  I’m Fariha Fairoz
+  I’m Fariha Fairoz. I enjoy learning and being uncomfortable through out the process.
   Reach me <a class="LI-simple-link" href='https://bd.linkedin.com/in/fariha-fairoz-nohan?trk=profile-badge'>here.</a></div>
   
 
